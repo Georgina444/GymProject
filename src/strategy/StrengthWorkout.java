@@ -11,6 +11,6 @@ public class StrengthWorkout implements WorkoutStrategy {
 
     @Override
     public void executeWorkout() {
-        System.out.println(enthusiast + " modified their workout with strength workout.");
+        System.out.println(enthusiast + " has incorporated strength training.");
     }
 }
